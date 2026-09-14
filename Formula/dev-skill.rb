@@ -1,8 +1,8 @@
 class DevSkill < Formula
   desc "AI-assisted multi-agent development SOP for Claude Code"
   homepage "https://github.com/KHAEntertainment/claude-dev-skill"
-  url "https://github.com/KHAEntertainment/claude-dev-skill/archive/refs/tags/v2.1.0.tar.gz"
-  sha256 "37ade32437390663e45d150f8a9f400e2edd7818bb869c37acb3a0ac691fb691"
+  url "https://github.com/KHAEntertainment/claude-dev-skill/archive/refs/tags/v2.1.1.tar.gz"
+  sha256 "567d4f667bb7c68b0523bc36b65bd273c61e6118f6e157109c886d47b63cb738"
   license "MIT"
 
   depends_on "python@3.13"
