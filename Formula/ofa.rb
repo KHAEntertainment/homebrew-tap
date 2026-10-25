@@ -1,8 +1,8 @@
 class Ofa < Formula
   desc "One For All: detect and update every coding harness from a single CLI"
   homepage "https://github.com/KHAEntertainment/ofa"
-  url "https://github.com/KHAEntertainment/ofa/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "05c9cdf90a6d99384cdf9802e9f90c2b353925ecaf8a56f979b93a2e19234a97"
+  url "https://github.com/KHAEntertainment/ofa/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "a541be6a855bbf143552f11985685c63b3a30113a9d8f3480a579882e101fa56"
   license "MIT"
 
   depends_on "go" => :build
